@@ -1,0 +1,9 @@
+langchain
+openai
+python-dotenv
+SpeechRecognition
+pyttsx3
+pyaudio
+soundfile
+torch
+git+https://github.com/openai/whisper.git
