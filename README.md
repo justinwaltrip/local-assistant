@@ -1,3 +1,4 @@
+A local voice assistant using LLMs.
 
 Install packages,
 ```
